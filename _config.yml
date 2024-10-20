@@ -1,0 +1,47 @@
+title: "Sua Colorista."
+email: suacolorista@gmail.com
+timezone: UTC
+baseurl: "/suacolorista"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Natália
+paginate: 30
+# disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 5
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+# ganalytics:
+
+# Authors
+authors:
+  sal:
+    name: Natália Madeira Santana
+    display_name: Natália
+    avatar: 'assets/images/natalia.png'
+    email: suacolorista@gmail.com
+    instagram: https://instagram.com/suacolorista
+    description: "A alma fica tingida com a cor de seus pensamentos."
+
+# Social
+social:
+  instagram: https://www.instagram.com/suacolorista
+  # facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  # twitter: https://twitter.com/bstartercom
+
+# Plugins
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
