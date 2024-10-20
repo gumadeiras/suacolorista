@@ -505,16 +505,20 @@ background-color: #fff;
     content: '';
     background-color: #333333;
 }
-.sidebar ul {list-style:"→";padding-left:6;}
+.sidebar ul {
+    list-style: "→";
+    padding-left: 2px;
+}
+.sidebar ul li::marker {
+  color: #226E73;
+  padding-left: 6px;
+}
 .sidebar ul li a {
     color: #999;
     border-bottom: 1px solid #f6f6f6;
     display: block;
     padding-bottom: 7px;
     padding-top: 7px;
-}
-.sidebar ul li::marker {
-  color: #226E73;
 }
 .sidebar-section {
     margin-bottom: 2rem;
