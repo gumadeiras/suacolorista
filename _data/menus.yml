@@ -4,11 +4,14 @@ topmenu:
 - title: Inicio
   url: ""
 
-- title: Sobre nós
+- title: Sobre a Natália
   url: "about/"
 
-- title: Agende sua colorimetria
+- title: O que é colorimetria?
   url: "colorimetria/"
+
+- title: Contato
+  url: "contato/"
 
 # - title: Get this theme
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
@@ -24,8 +27,14 @@ footermenu:
 # - title: Privacy Policy
 #   url: "privacy-policy/"
 
-- title: Agende sua colorimetria
+- title: Sobre a Natália
+  url: "about/"
+
+- title: O que é colorimetria?
   url: "colorimetria/"
+
+- title: Contato
+  url: "contato/"
 
 # - title: Download
 #   url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
