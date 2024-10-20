@@ -135,7 +135,8 @@ small, .small {
 /* Pages
 ================================================== */
 .hero {
-    background: #3A9FA5;
+    // background: #3A9FA5;
+    background: #CACADB;
     padding: 5rem 5rem;
 }
 
@@ -612,4 +613,11 @@ span.navigation:before {
 .hover-opacity:hover {
     transition: all 0.3s;
     opacity:.8;
+}
+
+
+// custom stuff
+
+.logo {
+    max-width: 30px;
 }
