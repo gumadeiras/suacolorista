@@ -327,6 +327,11 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 2rem;
+    max-height: 350px; /* Example height, adjust as needed */
+    overflow: hidden;
+    object-fit: cover;
+    object-position: center center;
+    width: 100%; /* Ensures the image container fits the width of its parent */
 }
 
 .full-width {
