@@ -1,11 +1,11 @@
-title: "Sua Colorista."
+title: "Sua Colorista"
 email: suacolorista@gmail.com
 timezone: UTC
 baseurl: "/suacolorista"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Natália
+author: Natália Madeira Santana Tomé
 paginate: 4
 # disqus: 'demowebsite'
 locale: en_us
@@ -25,7 +25,7 @@ sass:
 # Authors
 authors:
   sal:
-    name: Natália Madeira Santana
+    name: Natália Madeira Santana Tomé
     display_name: Natália
     avatar: 'assets/images/natalia.png'
     email: suacolorista@gmail.com
