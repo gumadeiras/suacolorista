@@ -3,9 +3,21 @@ layout: page
 title: O que é Colorimetria?
 permalink: "/colorimetria/"
 comments: false
+image: "/assets/images/colorimetria.jpg"
 ---
 
-A colorimetria é um método científico que estuda a relação entre as cores e a aparência pessoal de um indivíduo. Através da análise das características físicas, como tom de pele, cor dos olhos e cabelos, a colorimetria identifica as cores que mais favorecem e harmonizam com a beleza natural de cada pessoa.
+<div class="rounded mb-5 hero">
+  <div class="row align-items-center justify-content-between">
+    <div class="col-md-6">
+	    <p>
+        	A colorimetria é um método científico que estuda a relação entre as cores e a aparência pessoal de um indivíduo. Através da análise das características físicas, como tom de pele, cor dos olhos e cabelos, a colorimetria identifica as cores que mais favorecem e harmonizam com a beleza natural de cada pessoa.
+		</p>
+    </div>
+    <div class="col-md-6 text-right pl-0 pl-lg-4">
+      <img class="intro" height="400" src="{{site.baseurl}}/assets/images/colorimetria2.jpg">
+    </div>
+  </div>
+</div>
 
 ## Como Funciona a Colorimetria?
 
