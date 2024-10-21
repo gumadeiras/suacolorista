@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Sobre a natália
+title: Sobre a Natália
 permalink: "/about/"
-image: assets/images/screenshot.png
 ---
-
-
 
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
