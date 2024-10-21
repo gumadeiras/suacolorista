@@ -507,11 +507,13 @@ background-color: #fff;
 }
 .sidebar ul {
     list-style: "→";
-    padding-left: 2px;
+    padding-left: 16px;
+}
+.sidebar ul li::marker {
+  padding-left: 6px;
 }
 .sidebar ul li::marker {
   color: #226E73;
-  padding-left: 6px;
 }
 .sidebar ul li a {
     color: #999;
