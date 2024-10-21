@@ -1,7 +1,7 @@
 ---
 layout: page
 title: O que é Colorimetria?
-permalink: /colorimetria
+permalink: "/colorimetria/"
 comments: false
 ---
 
